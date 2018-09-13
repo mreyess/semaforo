@@ -1,7 +1,6 @@
 # semaforo
 
- Autor: Reyes Solis Miguel Angel 
- Programa: Sistema alertizador salvaguarda humano-coche
+ Sistema alertizador salvaguarda humano-coche
  Objetivo: Realizar un sistema que simule un Semáforo Interactivo usando Arduino. 
            Este debe mostrar un conjunto de semáforos que cambiarán de verde a ámbar a rojo, y viceversa, 
            luego de un período de tiempo establecido, utilizando el sistema de cuatro estados de los semáforos en México. 
